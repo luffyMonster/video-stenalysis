@@ -62,7 +62,7 @@ def train_and_test(data_file):
     cdict = {0: 'blue', 1: 'red'}
     for g in np.unique(y):
         ix = np.where(y == g)
-        ax.scatter(kur_values[ix], ent_values[ix], per_values[ix], c=cdict[g], label=('cover', 'stego')[g==0])
+        ax.scatter(kur_values[ix], ent_values[ix], per_values[ix], c=cdict[g], label=('cover', 'stego')[g==1])
 
     ax.legend()
     plt.show()
