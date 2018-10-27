@@ -1,7 +1,7 @@
 # **Video stenanalysis using collusion attack, PTIT 2018**
 ## 1. Nghiên cứu vầ thuật toán phát hiện
-    - Dựa trên 1 bài báo của UDIT BUDHIA, ["STEGANALYSIS OF VIDEO SEQUENCES USING COLLUSION SENSITIVITY", May 2005](docs/video_steganalysis.pdf)
-    - Bài nghiên cứu và báo cáo [Báo cáo về giấu tin trong video và phương pháp giấu tin trong video sử dụng collusion attack](docs/video_steganalysis_research_PTIT.docx)
+- Dựa trên 1 bài báo của UDIT BUDHIA, ["STEGANALYSIS OF VIDEO SEQUENCES USING COLLUSION SENSITIVITY", May 2005](docs/video_steganalysis.pdf)
+- Bài nghiên cứu và báo cáo [Báo cáo về giấu tin trong video và phương pháp giấu tin trong video sử dụng collusion attack](docs/video_steganalysis_research_PTIT.docx)
 ## 2. Cấu trúc của project
 **Input của thuật toán:**
     - Tập các frames của các video ở mức grayscale(màu 8-bit) đã được giấu tin và chưa được giấu 
